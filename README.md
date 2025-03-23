@@ -1,6 +1,3 @@
-# Android_QQ
- 【Android Studio】简单的QQ登录界面
-
 @[toc]
 注：实验环境 Android studio 2021.2.1
 # 1、头像设计
@@ -47,6 +44,7 @@ android:background="@null"去除了输入框的背景横线。
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/blog_migrate/487a833fdd43913b14b75048db831a8e.png)
 # 7、总体效果：
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/blog_migrate/c7c085760293eaad9e6caf41b215f419.png)
+
 
 
 # github源码地址：
