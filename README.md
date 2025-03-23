@@ -1,4 +1,4 @@
-@[toc]
+# 【Android Studio】简单的QQ登录界面
 注：实验环境 Android studio 2021.2.1
 # 1、头像设计
 + 首先在layout文件里面选择了RelativeLayout（相对布局）作为整个页面的布局。用下面的属性设置布局中子元素的排列方式为垂直排列；
